@@ -57,7 +57,7 @@ dependencies {
 1. Clone the repository
 2. Open in Android Studio
 3. Add the required dependencies
-4. Add network permissions to `AndroidManifest.xml`:
+4. Add network permissions to `app/src/main/AndroidManifest.xml`:
 
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
